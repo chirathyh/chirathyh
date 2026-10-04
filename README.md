@@ -1,16 +1,16 @@
-## Hi there 👋
+# Chirath Hettiarachchi
 
-<!--
-**chirathyh/chirathyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine learning researcher working on **sequential decision-making, scientific ML, and computational methods for biomedical systems**.
 
-Here are some ideas to get you started:
+I build learning and simulation systems for complex biological dynamics, including reinforcement learning for closed-loop insulin delivery and computational neuromodulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **[NeuroStimEnv](https://github.com/chirathyh/neurostimenv)** — biophysical neural simulation + EEG + transcranial stimulation + reinforcement learning.
+- **[RL4T1D](https://github.com/RL4H/RL4T1D)** — research infrastructure for reinforcement learning in Type 1 Diabetes.
+- **[G2P2C](https://github.com/RL4H/G2P2C)** — reinforcement learning with glucose prediction and planning for automated insulin delivery.
+- **[GluCoEnv](https://github.com/RL4H/GluCoEnv)** — simulation environment for RL-based glucose control.
+
+**Research:** Reinforcement Learning · Sequential Decision-Making · Scientific ML · Dynamical Systems · Computational Neuroscience
+
+[Website](https://chirathyh.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=gvLLPs8AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/chirathyh/)
