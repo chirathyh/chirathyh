@@ -2,7 +2,11 @@
 
 Machine learning researcher working on **sequential decision-making, scientific ML, and computational methods for biomedical systems**.
 
-I build learning and simulation systems for complex biological dynamics, including reinforcement learning for closed-loop insulin delivery and computational neuromodulation.
+I build learning and simulation systems for complex biological dynamics, including reinforcement learning for closed-loop insulin delivery and neuromodulation.
+
+<p align="center">
+<img src="research.png"/>
+</p>
 
 ## Selected work
 
